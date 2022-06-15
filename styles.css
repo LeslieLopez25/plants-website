@@ -224,3 +224,8 @@
  .nav__link:hover {
      color: var(--first-color);
  }
+
+ /* SHOW MENU */
+ .show-menu {
+     right: 0;
+ }
