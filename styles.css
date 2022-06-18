@@ -786,3 +786,8 @@
      background-color: var(--first-color-alt);
      opacity: 1;
  }
+
+ /* SHOW SCROLL UP */
+ .show-scroll {
+     bottom: 3rem;
+ }
