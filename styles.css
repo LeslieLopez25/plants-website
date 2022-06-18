@@ -77,6 +77,8 @@
      margin: var(--header-height) 0 0 0;
      background-color: var(--body-color);
      color: var(--text-color);
+     transition: .4s;
+     /* For animation dark mode */
  }
 
  button {
@@ -182,6 +184,8 @@
      top: 0;
      left: 0;
      z-index: var(--z-fixed);
+     transition: .4s;
+     /* For animation dark mode */
  }
 
  /* NAV */
