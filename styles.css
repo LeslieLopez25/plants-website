@@ -791,3 +791,14 @@
  .show-scroll {
      bottom: 3rem;
  }
+
+ /* SCROLL BAR */
+ ::-webkit-scrollbar {
+     width: .6rem;
+     background: hsl(var(--hue), 4%, 53%);
+ }
+
+ ::-webkit-scrollbar-thumb {
+     background: hsl((--hue), 4%, 29%);
+     border-radius: .5rem;
+ }
